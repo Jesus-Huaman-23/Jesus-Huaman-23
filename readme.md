@@ -14,6 +14,8 @@ Este es mi GitHub aquí encontraras proyectos realizados en cada semestre en el 
 
 ![Logo Del IESTP .](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-![Logo Del IESTP .](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
-
 ![Logo Del IESTP .](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+![Logo Del IESTP .]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact))
+
+![Logo Del IESTP .](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
