@@ -17,5 +17,3 @@ Este es mi GitHub aquí encontraras proyectos realizados en cada semestre en el 
 ![Logo Del IESTP .](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Huaman-23)
 
 ![Logo Del IESTP .](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Huaman-23&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesus-Huaman-23&repo=github-readme-stats)](https://github.com/Jesus-Huaman-23/github-readme-stats)
