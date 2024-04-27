@@ -6,7 +6,7 @@ Este es mi GitHub aquí encontraras proyectos realizados en cada semestre en el 
 
 # Mis habilidades como informático
 
-* 👍 Manejo de lenjuages de programación Java y Php
+* 👍 Manejo de lenguajes de programación Java y Php
 * 👍 Lenguajes de maquetado HTML y CSS
 * 👍 Soporte y mantenimiento de equipos de computo
 * 👍 GitHub
